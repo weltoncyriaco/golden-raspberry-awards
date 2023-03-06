@@ -35,7 +35,7 @@ Para executar o projeto basta utilizar o comando padrão do java.
  Para verificar os vencedores.
 
 ```http
-  GET /api
+  GET /dashboard
 ```
 
 #### Post
